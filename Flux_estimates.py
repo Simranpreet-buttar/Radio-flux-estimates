@@ -1,3 +1,4 @@
+#Contribution by Simranpreet Kaur and Rebeva Pirvu-Malanda.
 #In order to have an estimate of the radio flux of the studied sub-stellar objects, three different flux estimates models are used here below: 
 #1) FARELL AND DESCH MODEL 2) STEVENS MODEL and 3) GRIESSMEIER AND ZARKA MODEL. 
 #These flux estimates can indicate us if these objects are observable or not and can be useful for future proposals. 
